@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS resolved_identities (signal_id String, source LowCardinality(String), resolved_person_id String, confidence Float32, resolved_at DateTime) ENGINE = MergeTree ORDER BY (source, resolved_person_id, signal_id);
+CREATE TABLE IF NOT EXISTS dq_results (run_at DateTime, stage LowCardinality(String), control LowCardinality(String), status LowCardinality(String), observed Float64, threshold String) ENGINE = MergeTree ORDER BY (run_at, stage, control);

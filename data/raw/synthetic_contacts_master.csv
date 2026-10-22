@@ -1,0 +1,121 @@
+person_id,company_id,company_name,first_name,last_name,role,email,profile_url,phone,domain
+person_000_00,948531264,CONSTRUCTION,Amelie,Martin,CEO,amelie.martin@construction.fr,https://www.linkedin.com/in/amelie-martin-00,+33 6 00 00 00 00 00,construction.fr
+person_000_01,948531264,CONSTRUCTION,Benoit,Bernard,Sales Director,benoit.bernard@construction.fr,https://www.linkedin.com/in/benoit-bernard-01,+33 6 00 01 13 17 19,construction.fr
+person_000_02,948531264,CONSTRUCTION,Camille,Robert,Operations Manager,camille.robert@construction.fr,https://www.linkedin.com/in/camille-robert-02,+33 6 00 02 26 34 38,construction.fr
+person_000_03,948531264,CONSTRUCTION,David,Petit,Data Lead,david.petit@construction.fr,https://www.linkedin.com/in/david-petit-03,+33 6 00 03 39 51 57,construction.fr
+person_000_04,948531264,CONSTRUCTION,Elise,Durand,Procurement Manager,elise.durand@construction.fr,https://www.linkedin.com/in/elise-durand-04,+33 6 00 04 52 68 76,construction.fr
+person_000_05,948531264,CONSTRUCTION,Farid,Moreau,CEO,farid.moreau@construction.fr,https://www.linkedin.com/in/farid-moreau-05,+33 6 00 05 65 85 95,construction.fr
+person_001_00,809293244,CONSTRUCTION,David,Moreau,CEO,david.moreau@construction.fr,https://www.linkedin.com/in/david-moreau-10,+33 6 01 00 13 17 19,construction.fr
+person_001_01,809293244,CONSTRUCTION,Elise,Laurent,Sales Director,elise.laurent@construction.fr,https://www.linkedin.com/in/elise-laurent-11,+33 6 01 01 26 34 38,construction.fr
+person_001_02,809293244,CONSTRUCTION,Farid,Simon,Operations Manager,farid.simon@construction.fr,https://www.linkedin.com/in/farid-simon-12,+33 6 01 02 39 51 57,construction.fr
+person_001_03,809293244,CONSTRUCTION,Gabriel,Michel,Data Lead,gabriel.michel@construction.fr,https://www.linkedin.com/in/gabriel-michel-13,+33 6 01 03 52 68 76,construction.fr
+person_001_04,809293244,CONSTRUCTION,Hugo,Leroy,Procurement Manager,hugo.leroy@construction.fr,https://www.linkedin.com/in/hugo-leroy-14,+33 6 01 04 65 85 95,construction.fr
+person_001_05,809293244,CONSTRUCTION,Ines,Roux,CEO,ines.roux@construction.fr,https://www.linkedin.com/in/ines-roux-15,+33 6 01 05 78 02 14,construction.fr
+person_002_00,301764759,CONSTRUCTION,Gabriel,Roux,CEO,gabriel.roux@construction.fr,https://www.linkedin.com/in/gabriel-roux-20,+33 6 02 00 26 34 38,construction.fr
+person_002_01,301764759,CONSTRUCTION,Hugo,David,Sales Director,hugo.david@construction.fr,https://www.linkedin.com/in/hugo-david-21,+33 6 02 01 39 51 57,construction.fr
+person_002_02,301764759,CONSTRUCTION,Ines,Bertrand,Operations Manager,ines.bertrand@construction.fr,https://www.linkedin.com/in/ines-bertrand-22,+33 6 02 02 52 68 76,construction.fr
+person_002_03,301764759,CONSTRUCTION,Julien,Morel,Data Lead,julien.morel@construction.fr,https://www.linkedin.com/in/julien-morel-23,+33 6 02 03 65 85 95,construction.fr
+person_002_04,301764759,CONSTRUCTION,Lea,Fournier,Procurement Manager,lea.fournier@construction.fr,https://www.linkedin.com/in/lea-fournier-24,+33 6 02 04 78 02 14,construction.fr
+person_002_05,301764759,CONSTRUCTION,Maya,Girard,CEO,maya.girard@construction.fr,https://www.linkedin.com/in/maya-girard-25,+33 6 02 05 91 19 33,construction.fr
+person_003_00,531044105,CONSTRUCTION,Julien,Girard,CEO,julien.girard@construction.fr,https://www.linkedin.com/in/julien-girard-30,+33 6 03 00 39 51 57,construction.fr
+person_003_01,531044105,CONSTRUCTION,Lea,Andre,Sales Director,lea.andre@construction.fr,https://www.linkedin.com/in/lea-andre-31,+33 6 03 01 52 68 76,construction.fr
+person_003_02,531044105,CONSTRUCTION,Maya,Lefevre,Operations Manager,maya.lefevre@construction.fr,https://www.linkedin.com/in/maya-lefevre-32,+33 6 03 02 65 85 95,construction.fr
+person_003_03,531044105,CONSTRUCTION,Nicolas,Mercier,Data Lead,nicolas.mercier@construction.fr,https://www.linkedin.com/in/nicolas-mercier-33,+33 6 03 03 78 02 14,construction.fr
+person_003_04,531044105,CONSTRUCTION,Omar,Dupont,Procurement Manager,omar.dupont@construction.fr,https://www.linkedin.com/in/omar-dupont-34,+33 6 03 04 91 19 33,construction.fr
+person_003_05,531044105,CONSTRUCTION,Paul,Martin,CEO,paul.martin@construction.fr,https://www.linkedin.com/in/paul-martin-35,+33 6 03 05 04 36 52,construction.fr
+person_004_00,438639437,CONSTRUCTION,Nicolas,Martin,CEO,nicolas.martin@construction.fr,https://www.linkedin.com/in/nicolas-martin-40,+33 6 04 00 52 68 76,construction.fr
+person_004_01,438639437,CONSTRUCTION,Omar,Bernard,Sales Director,omar.bernard@construction.fr,https://www.linkedin.com/in/omar-bernard-41,+33 6 04 01 65 85 95,construction.fr
+person_004_02,438639437,CONSTRUCTION,Paul,Robert,Operations Manager,paul.robert@construction.fr,https://www.linkedin.com/in/paul-robert-42,+33 6 04 02 78 02 14,construction.fr
+person_004_03,438639437,CONSTRUCTION,Sarah,Petit,Data Lead,sarah.petit@construction.fr,https://www.linkedin.com/in/sarah-petit-43,+33 6 04 03 91 19 33,construction.fr
+person_004_04,438639437,CONSTRUCTION,Thomas,Durand,Procurement Manager,thomas.durand@construction.fr,https://www.linkedin.com/in/thomas-durand-44,+33 6 04 04 04 36 52,construction.fr
+person_004_05,438639437,CONSTRUCTION,Victor,Moreau,CEO,victor.moreau@construction.fr,https://www.linkedin.com/in/victor-moreau-45,+33 6 04 05 17 53 71,construction.fr
+person_005_00,789251394,CONNECT,Sarah,Moreau,CEO,sarah.moreau@connect.fr,https://www.linkedin.com/in/sarah-moreau-50,+33 6 05 00 65 85 95,connect.fr
+person_005_01,789251394,CONNECT,Thomas,Laurent,Sales Director,thomas.laurent@connect.fr,https://www.linkedin.com/in/thomas-laurent-51,+33 6 05 01 78 02 14,connect.fr
+person_005_02,789251394,CONNECT,Victor,Simon,Operations Manager,victor.simon@connect.fr,https://www.linkedin.com/in/victor-simon-52,+33 6 05 02 91 19 33,connect.fr
+person_005_03,789251394,CONNECT,Yasmine,Michel,Data Lead,yasmine.michel@connect.fr,https://www.linkedin.com/in/yasmine-michel-53,+33 6 05 03 04 36 52,connect.fr
+person_005_04,789251394,CONNECT,Zoé,Leroy,Procurement Manager,zoe.leroy@connect.fr,https://www.linkedin.com/in/zoe-leroy-54,+33 6 05 04 17 53 71,connect.fr
+person_005_05,789251394,CONNECT,Amelie,Roux,CEO,amelie.roux@connect.fr,https://www.linkedin.com/in/amelie-roux-55,+33 6 05 05 30 70 90,connect.fr
+person_006_00,377574645,INFORMATIQUE,Yasmine,Roux,CEO,yasmine.roux@informatique.fr,https://www.linkedin.com/in/yasmine-roux-60,+33 6 06 00 78 02 14,informatique.fr
+person_006_01,377574645,INFORMATIQUE,Zoé,David,Sales Director,zoe.david@informatique.fr,https://www.linkedin.com/in/zoe-david-61,+33 6 06 01 91 19 33,informatique.fr
+person_006_02,377574645,INFORMATIQUE,Amelie,Bertrand,Operations Manager,amelie.bertrand@informatique.fr,https://www.linkedin.com/in/amelie-bertrand-62,+33 6 06 02 04 36 52,informatique.fr
+person_006_03,377574645,INFORMATIQUE,Benoit,Morel,Data Lead,benoit.morel@informatique.fr,https://www.linkedin.com/in/benoit-morel-63,+33 6 06 03 17 53 71,informatique.fr
+person_006_04,377574645,INFORMATIQUE,Camille,Fournier,Procurement Manager,camille.fournier@informatique.fr,https://www.linkedin.com/in/camille-fournier-64,+33 6 06 04 30 70 90,informatique.fr
+person_006_05,377574645,INFORMATIQUE,David,Girard,CEO,david.girard@informatique.fr,https://www.linkedin.com/in/david-girard-65,+33 6 06 05 43 87 09,informatique.fr
+person_007_00,317288389,FIDUCIAL INFORMATIQUE,Benoit,Girard,CEO,benoit.girard@fiducialinformatiq.fr,https://www.linkedin.com/in/benoit-girard-70,+33 6 07 00 91 19 33,fiducialinformatiq.fr
+person_007_01,317288389,FIDUCIAL INFORMATIQUE,Camille,Andre,Sales Director,camille.andre@fiducialinformatiq.fr,https://www.linkedin.com/in/camille-andre-71,+33 6 07 01 04 36 52,fiducialinformatiq.fr
+person_007_02,317288389,FIDUCIAL INFORMATIQUE,David,Lefevre,Operations Manager,david.lefevre@fiducialinformatiq.fr,https://www.linkedin.com/in/david-lefevre-72,+33 6 07 02 17 53 71,fiducialinformatiq.fr
+person_007_03,317288389,FIDUCIAL INFORMATIQUE,Elise,Mercier,Data Lead,elise.mercier@fiducialinformatiq.fr,https://www.linkedin.com/in/elise-mercier-73,+33 6 07 03 30 70 90,fiducialinformatiq.fr
+person_007_04,317288389,FIDUCIAL INFORMATIQUE,Farid,Dupont,Procurement Manager,farid.dupont@fiducialinformatiq.fr,https://www.linkedin.com/in/farid-dupont-74,+33 6 07 04 43 87 09,fiducialinformatiq.fr
+person_007_05,317288389,FIDUCIAL INFORMATIQUE,Gabriel,Martin,CEO,gabriel.martin@fiducialinformatiq.fr,https://www.linkedin.com/in/gabriel-martin-75,+33 6 07 05 56 04 28,fiducialinformatiq.fr
+person_008_00,315000943,SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE,Elise,Martin,CEO,elise.martin@societepourlinform.fr,https://www.linkedin.com/in/elise-martin-80,+33 6 08 00 04 36 52,societepourlinform.fr
+person_008_01,315000943,SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE,Farid,Bernard,Sales Director,farid.bernard@societepourlinform.fr,https://www.linkedin.com/in/farid-bernard-81,+33 6 08 01 17 53 71,societepourlinform.fr
+person_008_02,315000943,SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE,Gabriel,Robert,Operations Manager,gabriel.robert@societepourlinform.fr,https://www.linkedin.com/in/gabriel-robert-82,+33 6 08 02 30 70 90,societepourlinform.fr
+person_008_03,315000943,SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE,Hugo,Petit,Data Lead,hugo.petit@societepourlinform.fr,https://www.linkedin.com/in/hugo-petit-83,+33 6 08 03 43 87 09,societepourlinform.fr
+person_008_04,315000943,SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE,Ines,Durand,Procurement Manager,ines.durand@societepourlinform.fr,https://www.linkedin.com/in/ines-durand-84,+33 6 08 04 56 04 28,societepourlinform.fr
+person_008_05,315000943,SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE,Julien,Moreau,CEO,julien.moreau@societepourlinform.fr,https://www.linkedin.com/in/julien-moreau-85,+33 6 08 05 69 21 47,societepourlinform.fr
+person_009_00,392398525,IRIS INFORMATIQUE,Hugo,Moreau,CEO,hugo.moreau@irisinformatique.fr,https://www.linkedin.com/in/hugo-moreau-90,+33 6 09 00 17 53 71,irisinformatique.fr
+person_009_01,392398525,IRIS INFORMATIQUE,Ines,Laurent,Sales Director,ines.laurent@irisinformatique.fr,https://www.linkedin.com/in/ines-laurent-91,+33 6 09 01 30 70 90,irisinformatique.fr
+person_009_02,392398525,IRIS INFORMATIQUE,Julien,Simon,Operations Manager,julien.simon@irisinformatique.fr,https://www.linkedin.com/in/julien-simon-92,+33 6 09 02 43 87 09,irisinformatique.fr
+person_009_03,392398525,IRIS INFORMATIQUE,Lea,Michel,Data Lead,lea.michel@irisinformatique.fr,https://www.linkedin.com/in/lea-michel-93,+33 6 09 03 56 04 28,irisinformatique.fr
+person_009_04,392398525,IRIS INFORMATIQUE,Maya,Leroy,Procurement Manager,maya.leroy@irisinformatique.fr,https://www.linkedin.com/in/maya-leroy-94,+33 6 09 04 69 21 47,irisinformatique.fr
+person_009_05,392398525,IRIS INFORMATIQUE,Nicolas,Roux,CEO,nicolas.roux@irisinformatique.fr,https://www.linkedin.com/in/nicolas-roux-95,+33 6 09 05 82 38 66,irisinformatique.fr
+person_010_00,811375625,CONSEIL,Lea,Roux,CEO,lea.roux@conseil.fr,https://www.linkedin.com/in/lea-roux-100,+33 6 10 00 30 70 90,conseil.fr
+person_010_01,811375625,CONSEIL,Maya,David,Sales Director,maya.david@conseil.fr,https://www.linkedin.com/in/maya-david-101,+33 6 10 01 43 87 09,conseil.fr
+person_010_02,811375625,CONSEIL,Nicolas,Bertrand,Operations Manager,nicolas.bertrand@conseil.fr,https://www.linkedin.com/in/nicolas-bertrand-102,+33 6 10 02 56 04 28,conseil.fr
+person_010_03,811375625,CONSEIL,Omar,Morel,Data Lead,omar.morel@conseil.fr,https://www.linkedin.com/in/omar-morel-103,+33 6 10 03 69 21 47,conseil.fr
+person_010_04,811375625,CONSEIL,Paul,Fournier,Procurement Manager,paul.fournier@conseil.fr,https://www.linkedin.com/in/paul-fournier-104,+33 6 10 04 82 38 66,conseil.fr
+person_010_05,811375625,CONSEIL,Sarah,Girard,CEO,sarah.girard@conseil.fr,https://www.linkedin.com/in/sarah-girard-105,+33 6 10 05 95 55 85,conseil.fr
+person_011_00,491520680,CONSEIL,Omar,Girard,CEO,omar.girard@conseil.fr,https://www.linkedin.com/in/omar-girard-110,+33 6 11 00 43 87 09,conseil.fr
+person_011_01,491520680,CONSEIL,Paul,Andre,Sales Director,paul.andre@conseil.fr,https://www.linkedin.com/in/paul-andre-111,+33 6 11 01 56 04 28,conseil.fr
+person_011_02,491520680,CONSEIL,Sarah,Lefevre,Operations Manager,sarah.lefevre@conseil.fr,https://www.linkedin.com/in/sarah-lefevre-112,+33 6 11 02 69 21 47,conseil.fr
+person_011_03,491520680,CONSEIL,Thomas,Mercier,Data Lead,thomas.mercier@conseil.fr,https://www.linkedin.com/in/thomas-mercier-113,+33 6 11 03 82 38 66,conseil.fr
+person_011_04,491520680,CONSEIL,Victor,Dupont,Procurement Manager,victor.dupont@conseil.fr,https://www.linkedin.com/in/victor-dupont-114,+33 6 11 04 95 55 85,conseil.fr
+person_011_05,491520680,CONSEIL,Yasmine,Martin,CEO,yasmine.martin@conseil.fr,https://www.linkedin.com/in/yasmine-martin-115,+33 6 11 05 08 72 04,conseil.fr
+person_012_00,849817283,CONSEIL,Thomas,Martin,CEO,thomas.martin@conseil.fr,https://www.linkedin.com/in/thomas-martin-120,+33 6 12 00 56 04 28,conseil.fr
+person_012_01,849817283,CONSEIL,Victor,Bernard,Sales Director,victor.bernard@conseil.fr,https://www.linkedin.com/in/victor-bernard-121,+33 6 12 01 69 21 47,conseil.fr
+person_012_02,849817283,CONSEIL,Yasmine,Robert,Operations Manager,yasmine.robert@conseil.fr,https://www.linkedin.com/in/yasmine-robert-122,+33 6 12 02 82 38 66,conseil.fr
+person_012_03,849817283,CONSEIL,Zoé,Petit,Data Lead,zoe.petit@conseil.fr,https://www.linkedin.com/in/zoe-petit-123,+33 6 12 03 95 55 85,conseil.fr
+person_012_04,849817283,CONSEIL,Amelie,Durand,Procurement Manager,amelie.durand@conseil.fr,https://www.linkedin.com/in/amelie-durand-124,+33 6 12 04 08 72 04,conseil.fr
+person_012_05,849817283,CONSEIL,Benoit,Moreau,CEO,benoit.moreau@conseil.fr,https://www.linkedin.com/in/benoit-moreau-125,+33 6 12 05 21 89 23,conseil.fr
+person_013_00,978162170,CONSEIL,Zoé,Moreau,CEO,zoe.moreau@conseil.fr,https://www.linkedin.com/in/zoe-moreau-130,+33 6 13 00 69 21 47,conseil.fr
+person_013_01,978162170,CONSEIL,Amelie,Laurent,Sales Director,amelie.laurent@conseil.fr,https://www.linkedin.com/in/amelie-laurent-131,+33 6 13 01 82 38 66,conseil.fr
+person_013_02,978162170,CONSEIL,Benoit,Simon,Operations Manager,benoit.simon@conseil.fr,https://www.linkedin.com/in/benoit-simon-132,+33 6 13 02 95 55 85,conseil.fr
+person_013_03,978162170,CONSEIL,Camille,Michel,Data Lead,camille.michel@conseil.fr,https://www.linkedin.com/in/camille-michel-133,+33 6 13 03 08 72 04,conseil.fr
+person_013_04,978162170,CONSEIL,David,Leroy,Procurement Manager,david.leroy@conseil.fr,https://www.linkedin.com/in/david-leroy-134,+33 6 13 04 21 89 23,conseil.fr
+person_013_05,978162170,CONSEIL,Elise,Roux,CEO,elise.roux@conseil.fr,https://www.linkedin.com/in/elise-roux-135,+33 6 13 05 34 06 42,conseil.fr
+person_014_00,884241100,CONSEIL,Camille,Roux,CEO,camille.roux@conseil.fr,https://www.linkedin.com/in/camille-roux-140,+33 6 14 00 82 38 66,conseil.fr
+person_014_01,884241100,CONSEIL,David,David,Sales Director,david.david@conseil.fr,https://www.linkedin.com/in/david-david-141,+33 6 14 01 95 55 85,conseil.fr
+person_014_02,884241100,CONSEIL,Elise,Bertrand,Operations Manager,elise.bertrand@conseil.fr,https://www.linkedin.com/in/elise-bertrand-142,+33 6 14 02 08 72 04,conseil.fr
+person_014_03,884241100,CONSEIL,Farid,Morel,Data Lead,farid.morel@conseil.fr,https://www.linkedin.com/in/farid-morel-143,+33 6 14 03 21 89 23,conseil.fr
+person_014_04,884241100,CONSEIL,Gabriel,Fournier,Procurement Manager,gabriel.fournier@conseil.fr,https://www.linkedin.com/in/gabriel-fournier-144,+33 6 14 04 34 06 42,conseil.fr
+person_014_05,884241100,CONSEIL,Hugo,Girard,CEO,hugo.girard@conseil.fr,https://www.linkedin.com/in/hugo-girard-145,+33 6 14 05 47 23 61,conseil.fr
+person_015_00,952072635,TRANSPORT,Farid,Girard,CEO,farid.girard@transport.fr,https://www.linkedin.com/in/farid-girard-150,+33 6 15 00 95 55 85,transport.fr
+person_015_01,952072635,TRANSPORT,Gabriel,Andre,Sales Director,gabriel.andre@transport.fr,https://www.linkedin.com/in/gabriel-andre-151,+33 6 15 01 08 72 04,transport.fr
+person_015_02,952072635,TRANSPORT,Hugo,Lefevre,Operations Manager,hugo.lefevre@transport.fr,https://www.linkedin.com/in/hugo-lefevre-152,+33 6 15 02 21 89 23,transport.fr
+person_015_03,952072635,TRANSPORT,Ines,Mercier,Data Lead,ines.mercier@transport.fr,https://www.linkedin.com/in/ines-mercier-153,+33 6 15 03 34 06 42,transport.fr
+person_015_04,952072635,TRANSPORT,Julien,Dupont,Procurement Manager,julien.dupont@transport.fr,https://www.linkedin.com/in/julien-dupont-154,+33 6 15 04 47 23 61,transport.fr
+person_015_05,952072635,TRANSPORT,Lea,Martin,CEO,lea.martin@transport.fr,https://www.linkedin.com/in/lea-martin-155,+33 6 15 05 60 40 80,transport.fr
+person_016_00,991034273,TRANSPORT,Ines,Martin,CEO,ines.martin@transport.fr,https://www.linkedin.com/in/ines-martin-160,+33 6 16 00 08 72 04,transport.fr
+person_016_01,991034273,TRANSPORT,Julien,Bernard,Sales Director,julien.bernard@transport.fr,https://www.linkedin.com/in/julien-bernard-161,+33 6 16 01 21 89 23,transport.fr
+person_016_02,991034273,TRANSPORT,Lea,Robert,Operations Manager,lea.robert@transport.fr,https://www.linkedin.com/in/lea-robert-162,+33 6 16 02 34 06 42,transport.fr
+person_016_03,991034273,TRANSPORT,Maya,Petit,Data Lead,maya.petit@transport.fr,https://www.linkedin.com/in/maya-petit-163,+33 6 16 03 47 23 61,transport.fr
+person_016_04,991034273,TRANSPORT,Nicolas,Durand,Procurement Manager,nicolas.durand@transport.fr,https://www.linkedin.com/in/nicolas-durand-164,+33 6 16 04 60 40 80,transport.fr
+person_016_05,991034273,TRANSPORT,Omar,Moreau,CEO,omar.moreau@transport.fr,https://www.linkedin.com/in/omar-moreau-165,+33 6 16 05 73 57 99,transport.fr
+person_017_00,769800202,HEPPNER SOCIETE DE TRANSPORTS,Maya,Moreau,CEO,maya.moreau@heppnersocietedetr.fr,https://www.linkedin.com/in/maya-moreau-170,+33 6 17 00 21 89 23,heppnersocietedetr.fr
+person_017_01,769800202,HEPPNER SOCIETE DE TRANSPORTS,Nicolas,Laurent,Sales Director,nicolas.laurent@heppnersocietedetr.fr,https://www.linkedin.com/in/nicolas-laurent-171,+33 6 17 01 34 06 42,heppnersocietedetr.fr
+person_017_02,769800202,HEPPNER SOCIETE DE TRANSPORTS,Omar,Simon,Operations Manager,omar.simon@heppnersocietedetr.fr,https://www.linkedin.com/in/omar-simon-172,+33 6 17 02 47 23 61,heppnersocietedetr.fr
+person_017_03,769800202,HEPPNER SOCIETE DE TRANSPORTS,Paul,Michel,Data Lead,paul.michel@heppnersocietedetr.fr,https://www.linkedin.com/in/paul-michel-173,+33 6 17 03 60 40 80,heppnersocietedetr.fr
+person_017_04,769800202,HEPPNER SOCIETE DE TRANSPORTS,Sarah,Leroy,Procurement Manager,sarah.leroy@heppnersocietedetr.fr,https://www.linkedin.com/in/sarah-leroy-174,+33 6 17 04 73 57 99,heppnersocietedetr.fr
+person_017_05,769800202,HEPPNER SOCIETE DE TRANSPORTS,Thomas,Roux,CEO,thomas.roux@heppnersocietedetr.fr,https://www.linkedin.com/in/thomas-roux-175,+33 6 17 05 86 74 18,heppnersocietedetr.fr
+person_018_00,790117303,TRANSPORT ET VALORISATION,Paul,Roux,CEO,paul.roux@transportetvalorit.fr,https://www.linkedin.com/in/paul-roux-180,+33 6 18 00 34 06 42,transportetvalorit.fr
+person_018_01,790117303,TRANSPORT ET VALORISATION,Sarah,David,Sales Director,sarah.david@transportetvalorit.fr,https://www.linkedin.com/in/sarah-david-181,+33 6 18 01 47 23 61,transportetvalorit.fr
+person_018_02,790117303,TRANSPORT ET VALORISATION,Thomas,Bertrand,Operations Manager,thomas.bertrand@transportetvalorit.fr,https://www.linkedin.com/in/thomas-bertrand-182,+33 6 18 02 60 40 80,transportetvalorit.fr
+person_018_03,790117303,TRANSPORT ET VALORISATION,Victor,Morel,Data Lead,victor.morel@transportetvalorit.fr,https://www.linkedin.com/in/victor-morel-183,+33 6 18 03 73 57 99,transportetvalorit.fr
+person_018_04,790117303,TRANSPORT ET VALORISATION,Yasmine,Fournier,Procurement Manager,yasmine.fournier@transportetvalorit.fr,https://www.linkedin.com/in/yasmine-fournier-184,+33 6 18 04 86 74 18,transportetvalorit.fr
+person_018_05,790117303,TRANSPORT ET VALORISATION,Zoé,Girard,CEO,zoe.girard@transportetvalorit.fr,https://www.linkedin.com/in/zoe-girard-185,+33 6 18 05 99 91 37,transportetvalorit.fr
+person_019_00,775663438,REGIE AUTONOME DES TRANSPORTS PARISIENS,Victor,Girard,CEO,victor.girard@regieautonomedestr.fr,https://www.linkedin.com/in/victor-girard-190,+33 6 19 00 47 23 61,regieautonomedestr.fr
+person_019_01,775663438,REGIE AUTONOME DES TRANSPORTS PARISIENS,Yasmine,Andre,Sales Director,yasmine.andre@regieautonomedestr.fr,https://www.linkedin.com/in/yasmine-andre-191,+33 6 19 01 60 40 80,regieautonomedestr.fr
+person_019_02,775663438,REGIE AUTONOME DES TRANSPORTS PARISIENS,Zoé,Lefevre,Operations Manager,zoe.lefevre@regieautonomedestr.fr,https://www.linkedin.com/in/zoe-lefevre-192,+33 6 19 02 73 57 99,regieautonomedestr.fr
+person_019_03,775663438,REGIE AUTONOME DES TRANSPORTS PARISIENS,Amelie,Mercier,Data Lead,amelie.mercier@regieautonomedestr.fr,https://www.linkedin.com/in/amelie-mercier-193,+33 6 19 03 86 74 18,regieautonomedestr.fr
+person_019_04,775663438,REGIE AUTONOME DES TRANSPORTS PARISIENS,Benoit,Dupont,Procurement Manager,benoit.dupont@regieautonomedestr.fr,https://www.linkedin.com/in/benoit-dupont-194,+33 6 19 04 99 91 37,regieautonomedestr.fr
+person_019_05,775663438,REGIE AUTONOME DES TRANSPORTS PARISIENS,Camille,Martin,CEO,camille.martin@regieautonomedestr.fr,https://www.linkedin.com/in/camille-martin-195,+33 6 19 05 12 08 56,regieautonomedestr.fr

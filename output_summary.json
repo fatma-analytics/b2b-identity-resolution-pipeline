@@ -1,0 +1,13 @@
+{
+  "companies": 20,
+  "contacts_synthetic": 120,
+  "signals": 375,
+  "clean_signals": 375,
+  "resolved_people": 120,
+  "matching_precision": 1.0,
+  "matching_recall": 1.0,
+  "matching_f1": 1.0,
+  "dq_checks": 8,
+  "dq_passed": 7,
+  "sources": 3
+}

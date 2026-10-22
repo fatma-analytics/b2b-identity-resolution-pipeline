@@ -1,0 +1,9 @@
+run_at,stage,control,status,observed,threshold,action
+2026-10-22T10:56:37.625922+00:00,raw,freshness,PASS,0.0,< 24h,refresh ingestion log
+2026-10-22T10:56:37.625936+00:00,raw,row_volume,PASS,375.0,baseline > 0,investigate missing source
+2026-10-22T10:56:37.625992+00:00,clean,email_validity,FAIL,0.192,>= 25%,quarantine invalid email values
+2026-10-22T10:56:37.626130+00:00,clean,normalized_id_uniqueness,PASS,375.0,= row count,deduplicate signal_id
+2026-10-22T10:56:37.626373+00:00,clean,company_domain_completeness,PASS,0.64,>= 50%,enrich or hold record
+2026-10-22T10:56:37.626376+00:00,resolved,matching_precision,PASS,1.0,>= 0.85,review candidate thresholds
+2026-10-22T10:56:37.626472+00:00,resolved,resolution_coverage,PASS,1.0,>= 0.95,review unresolved queue
+2026-10-22T10:56:37.626550+00:00,resolved,confidence_completeness,PASS,1.0,= 1.0,do not publish without score

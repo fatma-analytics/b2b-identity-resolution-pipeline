@@ -1,0 +1,74 @@
+[
+  {
+    "run_at":"2026-10-22T10:56:37.625922+00:00",
+    "stage":"raw",
+    "control":"freshness",
+    "status":"PASS",
+    "observed":0.0,
+    "threshold":"< 24h",
+    "action":"refresh ingestion log"
+  },
+  {
+    "run_at":"2026-10-22T10:56:37.625936+00:00",
+    "stage":"raw",
+    "control":"row_volume",
+    "status":"PASS",
+    "observed":375.0,
+    "threshold":"baseline > 0",
+    "action":"investigate missing source"
+  },
+  {
+    "run_at":"2026-10-22T10:56:37.625992+00:00",
+    "stage":"clean",
+    "control":"email_validity",
+    "status":"FAIL",
+    "observed":0.192,
+    "threshold":">= 25%",
+    "action":"quarantine invalid email values"
+  },
+  {
+    "run_at":"2026-10-22T10:56:37.626130+00:00",
+    "stage":"clean",
+    "control":"normalized_id_uniqueness",
+    "status":"PASS",
+    "observed":375.0,
+    "threshold":"= row count",
+    "action":"deduplicate signal_id"
+  },
+  {
+    "run_at":"2026-10-22T10:56:37.626373+00:00",
+    "stage":"clean",
+    "control":"company_domain_completeness",
+    "status":"PASS",
+    "observed":0.64,
+    "threshold":">= 50%",
+    "action":"enrich or hold record"
+  },
+  {
+    "run_at":"2026-10-22T10:56:37.626376+00:00",
+    "stage":"resolved",
+    "control":"matching_precision",
+    "status":"PASS",
+    "observed":1.0,
+    "threshold":">= 0.85",
+    "action":"review candidate thresholds"
+  },
+  {
+    "run_at":"2026-10-22T10:56:37.626472+00:00",
+    "stage":"resolved",
+    "control":"resolution_coverage",
+    "status":"PASS",
+    "observed":1.0,
+    "threshold":">= 0.95",
+    "action":"review unresolved queue"
+  },
+  {
+    "run_at":"2026-10-22T10:56:37.626550+00:00",
+    "stage":"resolved",
+    "control":"confidence_completeness",
+    "status":"PASS",
+    "observed":1.0,
+    "threshold":"= 1.0",
+    "action":"do not publish without score"
+  }
+]

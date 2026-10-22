@@ -1,0 +1,2 @@
+source,rows,object,status
+signals_all.csv,375,/home/ubuntu/work/b2b-identity-resolution-pipeline/data/raw/signals_all.parquet,success
